@@ -1,0 +1,62 @@
+# Byte-compiled Python files
+*.py[cod]
+__pycache__/
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+*.venv
+
+# Python distribution files
+*.egg
+*.egg-info/
+dist/
+build/
+*.wheel
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Node.js modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Test and coverage files
+coverage/
+*.cover
+*.coverage
+*.cov
+*.gcda
+*.gcno
+*.gcov
+
+# Environment variables
+.env
+.env.*
+
+# Application-specific
+*.bak
+*.tmp
+
+# Ignore all files in certain directories
+*.lock
+.Python
+.mypy_cache/
+.pytest_cache/
