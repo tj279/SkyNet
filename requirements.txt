@@ -1,0 +1,8 @@
+tk
+sounddevice
+Pillow
+whisper 
+numpy
+pyttsx3
+requests
+google-generativeai
